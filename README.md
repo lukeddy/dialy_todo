@@ -15,3 +15,8 @@ http://megashare.sc/
 
 新闻（News):
 http://firstround.com/
+
+
+技术(tech)：
+http://nerds.airbnb.com/
+
