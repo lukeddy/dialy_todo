@@ -21,3 +21,6 @@ http://www.sitepoint.com/
 airbnb技术日志：http://nerds.airbnb.com/
 知乎上的growth hack组：https://www.zhihu.com/topic/19800630/top-answers
 
+
+创业：
+http://www.ycombinator.com/
