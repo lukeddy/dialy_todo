@@ -16,12 +16,12 @@ http://megashare.sc/
 
 
 
-
 新闻（News):
 http://firstround.com/
-http://www.sitepoint.com/
+
 
 技术(tech)：
+http://www.sitepoint.com/
 airbnb技术日志：http://nerds.airbnb.com/
 invisionapp设计： http://www.invisionapp.com/
 知乎上的growth hack组：https://www.zhihu.com/topic/19800630/top-answers
