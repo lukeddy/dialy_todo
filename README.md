@@ -9,3 +9,9 @@ https://www.quora.com
 
 视屏(Video):
 http://megashare.sc/
+
+
+
+
+新闻（News):
+http://firstround.com/
