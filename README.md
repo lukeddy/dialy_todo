@@ -26,6 +26,7 @@ airbnb技术日志：http://nerds.airbnb.com/
 invisionapp设计： http://www.invisionapp.com/
 知乎上的growth hack组：https://www.zhihu.com/topic/19800630/top-answers
 全栈工具：https://www.sdk.cn/datas
+学习一下svg：http://talent.baidu.com/external/baidu/index.html#/
 
 
 工具：
