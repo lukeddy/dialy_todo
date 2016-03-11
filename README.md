@@ -27,7 +27,7 @@ invisionapp设计： http://www.invisionapp.com/
 知乎上的growth hack组：https://www.zhihu.com/topic/19800630/top-answers
 全栈工具：https://www.sdk.cn/datas
 学习一下svg：http://talent.baidu.com/external/baidu/index.html#/
-
+JS大拿：http://getify.me/,https://github.com/getify/You-Dont-Know-JS
 
 工具：
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe
@@ -35,3 +35,7 @@ invisionapp设计： http://www.invisionapp.com/
 
 创业：
 http://www.ycombinator.com/
+
+
+视频：
+Google搜索JS大拿For JS you can watch videos by Kyle Simpson
