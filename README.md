@@ -28,6 +28,9 @@ invisionapp设计： http://www.invisionapp.com/
 全栈工具：https://www.sdk.cn/datas
 学习一下svg：http://talent.baidu.com/external/baidu/index.html#/
 JS大拿：http://getify.me/,https://github.com/getify/You-Dont-Know-JS
+openrestry最佳实践https://github.com/moonbingbing/openresty-best-practices
+
+
 
 工具：
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe
