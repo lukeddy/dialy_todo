@@ -1,9 +1,10 @@
 # dialy_todo
 经常要做的事，Do It NOW!
 
-文章：
+文章&资料：
 喜欢airbnb风格 http://www.admin5.com/article/20150820/617700.shtml
 如何写出类似tumblr的网站：https://www.quora.com/What-should-I-learn-to-develop-a-site-like-tumblr
+overstack上推荐技术书籍：https://github.com/justjavac/free-programming-books-zh_CN
 
 网站：
 https://www.pinterest.com/
