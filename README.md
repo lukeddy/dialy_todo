@@ -1,6 +1,12 @@
 # dialy_todo
 经常要做的事，Do It NOW!
 
+跑起来：
+https://github.com/prontera/solar
+https://github.com/jiekechoo/spring-security-session-redis-user-details-service
+https://github.com/mazhaoyong/api-server-seed
+
+
 文章&资料：
 喜欢airbnb风格 http://www.admin5.com/article/20150820/617700.shtml
 如何写出类似tumblr的网站：https://www.quora.com/What-should-I-learn-to-develop-a-site-like-tumblr
