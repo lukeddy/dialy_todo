@@ -37,7 +37,7 @@ invisionapp设计： http://www.invisionapp.com/
 JS大拿：http://getify.me/,https://github.com/getify/You-Dont-Know-JS
 openrestry最佳实践https://github.com/moonbingbing/openresty-best-practices
 spring redis session一体化： https://github.com/jiekechoo/spring-security-session-redis-user-details-service.git
-
+js技术网站：https://www.hotjs.net/
 
 
 工具：
