@@ -46,9 +46,9 @@ http2.0：https://github.com/abbshr/rfc7540-translation-zh_cn
 
 
 工具：
-翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe
-技术栈：https://www.sdk.cn/
-windows终端神器：http://mobaxterm.mobatek.net/
+翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe  
+技术栈：https://www.sdk.cn/  
+windows终端神器：http://mobaxterm.mobatek.net/  
 
 创业：
 http://www.ycombinator.com/
