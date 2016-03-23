@@ -1,5 +1,10 @@
 # dialy_todo  
 经常要做的事，Do It NOW!  
+研究个版本(bootstrap,angular,react)的AdminLTE：  
+https://github.com/booleanhunter/ReactJS-AdminLTE  
+https://github.com/ahmadalibaloch/Angular-AdminLTE  
+https://github.com/almasaeed2010/AdminLTE  
+
 下载：http://preview.nyasha.me/#urban  
 
 跑起来：
