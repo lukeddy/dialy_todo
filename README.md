@@ -1,6 +1,6 @@
-# dialy_todo
-经常要做的事，Do It NOW!
-下载：http://preview.nyasha.me/#urban
+# dialy_todo  
+经常要做的事，Do It NOW!  
+下载：http://preview.nyasha.me/#urban  
 
 跑起来：
 https://github.com/prontera/solar  
