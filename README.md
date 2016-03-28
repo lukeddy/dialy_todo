@@ -64,6 +64,7 @@ css思想：https://smacss.com/
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe    
 技术栈：https://www.sdk.cn/   
 windows终端神器：http://mobaxterm.mobatek.net/  
+网站用什么技术分析：http://builtwith.com/ 
 
 创业： 
 http://www.ycombinator.com/  
