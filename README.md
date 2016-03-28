@@ -53,6 +53,7 @@ https://github.com/jeansfish/RFC6750.zh-cn
 http2.0：https://github.com/abbshr/rfc7540-translation-zh_cn
 http://growth.ren/  
 牛人 https://github.com/tzq668766/github-roam，个人网站：https://www.phodal.com  
+小胡哥博客： http://barretlee.com/  
 阿里巴巴D2论坛 http://d2forum.alibaba-inc.com/  
 pjax:https://github.com/defunkt/jquery-pjax  
 
