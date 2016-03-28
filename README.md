@@ -22,6 +22,7 @@ https://github.com/mazhaoyong/api-server-seed
 overstack上推荐技术书籍：https://github.com/justjavac/free-programming-books-zh_CN  
 
 网站：  
+Google:https://deepmind.com/ 
 https://www.pinterest.com/  
 
 https://www.quora.com  
