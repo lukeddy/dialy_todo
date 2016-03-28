@@ -4,7 +4,9 @@
 https://github.com/booleanhunter/ReactJS-AdminLTE  
 https://github.com/ahmadalibaloch/Angular-AdminLTE  
 https://github.com/almasaeed2010/AdminLTE  
-pjax技术：https://github.com/welefen/pjax  
+pjax技术：  
+https://github.com/welefen/pjax  
+https://github.com/defunkt/jquery-pjax
 
 下载：http://preview.nyasha.me/#urban  
 
@@ -52,7 +54,7 @@ http2.0：https://github.com/abbshr/rfc7540-translation-zh_cn
 http://growth.ren/  
 牛人 https://github.com/tzq668766/github-roam，个人网站：https://www.phodal.com  
 阿里巴巴D2论坛 http://d2forum.alibaba-inc.com/  
-用pjax写点东东：https://github.com/welefen/pjax  
+pjax:https://github.com/defunkt/jquery-pjax  
 
 
 工具：  
