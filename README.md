@@ -42,7 +42,7 @@ http://www.sitepoint.com/
 airbnb技术日志：http://nerds.airbnb.com/  
 invisionapp设计： http://www.invisionapp.com/  
 知乎上的growth hack组：https://www.zhihu.com/topic/19800630/top-answers  
-全栈工具：https://www.sdk.cn/datas，http://stackshare.io/stacks  
+全栈工具：https://www.sdk.cn/datas，http://stackshare.io/stacks，http://techstacks.io/  
 学习一下svg：http://talent.baidu.com/external/baidu/index.html#/  
 JS大拿：http://getify.me/,https://github.com/getify/You-Dont-Know-JS  
 openrestry最佳实践https://github.com/moonbingbing/openresty-best-practices  
