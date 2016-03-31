@@ -20,6 +20,7 @@ https://github.com/mazhaoyong/api-server-seed
 喜欢airbnb风格 http://www.admin5.com/article/20150820/617700.shtml  
 如何写出类似tumblr的网站：https://www.quora.com/What-should-I-learn-to-develop-a-site-like-tumblr  
 overstack上推荐技术书籍：https://github.com/justjavac/free-programming-books-zh_CN  
+worktile文章：https://worktile.com/tech  
 
 网站：  
 Google:https://deepmind.com/ 
