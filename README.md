@@ -59,6 +59,7 @@ http://growth.ren/
 pjax:https://github.com/defunkt/jquery-pjax  
 css思想：https://smacss.com/  
 前端一堆操作文件API:http://mailru.github.io/FileAPI/  
+jwt(Json Web Token)草案：http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html  
 
 工具：  
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe    
