@@ -4,6 +4,10 @@
 https://github.com/booleanhunter/ReactJS-AdminLTE  
 https://github.com/ahmadalibaloch/Angular-AdminLTE  
 https://github.com/almasaeed2010/AdminLTE  
+
+javascript:
+ECMASCript标准：英文https://github.com/lukehoban/es6features  中文在线http://yanhaijing.com/es5/#null  
+
 pjax技术：  
 https://github.com/welefen/pjax  
 https://github.com/defunkt/jquery-pjax
