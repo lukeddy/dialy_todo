@@ -6,6 +6,8 @@ https://github.com/ahmadalibaloch/Angular-AdminLTE
 https://github.com/almasaeed2010/AdminLTE  
 
 javascript:
+typescript:http://www.typescriptlang.org/  
+babel:https://babeljs.io/ 
 ECMASCript标准：英文https://github.com/lukehoban/es6features  中文在线http://yanhaijing.com/es5/#null  
 大神，还是个女神：https://github.com/AutumnsWind  
 
