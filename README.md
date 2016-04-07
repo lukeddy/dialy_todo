@@ -10,6 +10,7 @@ typescript:http://www.typescriptlang.org/
 babel:https://babeljs.io/ 
 ECMASCript标准：英文https://github.com/lukehoban/es6features  中文在线http://yanhaijing.com/es5/#null  
 大神，还是个女神：https://github.com/AutumnsWind  
+大拿阮一峰JS指导：https://github.com/ruanyf/es6tutorial
 
 pjax技术：  
 https://github.com/welefen/pjax  
@@ -69,6 +70,7 @@ css思想：https://smacss.com/
 前端一堆操作文件API:http://mailru.github.io/FileAPI/  
 jwt(Json Web Token)草案：http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html  
 前端读一读：http://www.haomou.net/  
+
 
 工具：  
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe    
