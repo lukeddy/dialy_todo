@@ -33,6 +33,7 @@ worktile文章：https://worktile.com/tech
 网站：  
 Google:https://deepmind.com/ 
 https://www.pinterest.com/  
+https://about.me/ 了解名人
 
 https://www.quora.com  
 
