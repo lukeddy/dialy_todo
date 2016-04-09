@@ -48,6 +48,7 @@ http://firstround.com/
 
 
 技术(tech)：  
+使用web技术创建跨平台应用：http://electron.atom.io/  
 http://www.sitepoint.com/  
 airbnb技术日志：http://nerds.airbnb.com/  
 invisionapp设计： http://www.invisionapp.com/  
