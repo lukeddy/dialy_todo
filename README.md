@@ -85,6 +85,10 @@ windows终端神器：http://mobaxterm.mobatek.net/
 创业： 
 http://www.ycombinator.com/  
 
+开源好项目：
+邮件客户端，基于Electron, React, and Flux:https://github.com/nylas/N1 
+基于meteor,slack替代产品：https://github.com/RocketChat/Rocket.Chat 
+
 
 视频：  
 Google搜索JS大拿For JS you can watch videos by Kyle Simpson  
