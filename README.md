@@ -82,6 +82,7 @@ windows终端神器：http://mobaxterm.mobatek.net/
 网站用什么技术分析：http://builtwith.com/ 
 在线redis(5M免费): http://redis4you.com/   
 在线mongo: https://mlab.com/signup/   
+chrome开发者工具详解：https://developers.google.com/web/tools/chrome-devtools/?hl=en  
 
 创业： 
 http://www.ycombinator.com/  
