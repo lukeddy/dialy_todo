@@ -11,6 +11,7 @@ babel:https://babeljs.io/
 ECMASCript标准：英文https://github.com/lukehoban/es6features  中文在线http://yanhaijing.com/es5/#null  
 大神，还是个女神：https://github.com/AutumnsWind  
 大拿阮一峰JS指导：https://github.com/ruanyf/es6tutorial
+Google web starter:https://developers.google.com/web/tools/starter-kit/  
 
 pjax技术：  
 https://github.com/welefen/pjax  
