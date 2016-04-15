@@ -1,4 +1,6 @@
 # dialy_todo  
+每天深入一点：https://git-scm.com/book/zh/v2  
+
 经常要做的事，Do It NOW!  
 研究个版本(bootstrap,angular,react)的AdminLTE：  
 https://github.com/booleanhunter/ReactJS-AdminLTE  
