@@ -75,7 +75,7 @@ css思想：https://smacss.com/
 前端一堆操作文件API:http://mailru.github.io/FileAPI/  
 jwt(Json Web Token)草案：http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html  
 前端读一读：http://www.haomou.net/  
-
+激光推送博客：http://blog.jpush.cn/  
 
 工具：  
 翻墙软件https://s3.amazonaws.com/lantern/lantern-installer-beta.exe    
