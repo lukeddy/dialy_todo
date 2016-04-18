@@ -52,6 +52,7 @@ http://firstround.com/
 
 
 技术(tech)：  
+免费计算机编程书：https://github.com/justjavac/free-programming-books-zh_CN  
 使用web技术创建跨平台应用：http://electron.atom.io/  
 http://www.sitepoint.com/  
 airbnb技术日志：http://nerds.airbnb.com/  
