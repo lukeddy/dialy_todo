@@ -40,6 +40,7 @@ https://www.pinterest.com/
 https://about.me/ 了解名人
 
 https://www.quora.com  
+http://coverr.co/   //视频背景素材
 
 
 视屏(Video):  
