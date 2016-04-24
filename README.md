@@ -39,6 +39,7 @@ Google:https://deepmind.com/
 https://www.pinterest.com/  
 https://about.me/ 了解名人
 http://www.meetup.com/ 兴趣讨论
+http://svinsight.com/  硅谷密探
 
 https://www.quora.com  
 http://coverr.co/   //视频背景素材
