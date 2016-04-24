@@ -38,6 +38,7 @@ worktile文章：https://worktile.com/tech
 Google:https://deepmind.com/ 
 https://www.pinterest.com/  
 https://about.me/ 了解名人
+http://www.meetup.com/ 兴趣讨论
 
 https://www.quora.com  
 http://coverr.co/   //视频背景素材
