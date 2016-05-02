@@ -47,6 +47,7 @@ http://coverr.co/   //视频背景素材
 
 视屏(Video):  
 http://megashare.sc/  
+http://mooc.guokr.com/course/
 
 
 
