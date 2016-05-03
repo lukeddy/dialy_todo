@@ -1,4 +1,5 @@
 # dialy_todo  
+架构知识学习：http://www.infoq.com/cn/presentations
 每天深入一点：https://git-scm.com/book/zh/v2    
 前端手册（很全：https://leohxj.gitbooks.io/front-end-database/content/  
 
