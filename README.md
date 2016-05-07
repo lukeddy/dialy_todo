@@ -34,6 +34,7 @@ https://github.com/mazhaoyong/api-server-seed
 如何写出类似tumblr的网站：https://www.quora.com/What-should-I-learn-to-develop-a-site-like-tumblr  
 overstack上推荐技术书籍：https://github.com/justjavac/free-programming-books-zh_CN  
 worktile文章：https://worktile.com/tech  
+微服务：http://blog.csdn.net/wurenhai/article/details/37659335  
 
 网站：  
 Google:https://deepmind.com/ 
